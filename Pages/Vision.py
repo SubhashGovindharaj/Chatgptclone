@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # Set your OpenAI API key
-openai.api_key = 'YOUR API KEY'
+openai.api_key = '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'
 # Title for the Vision page
 st.title("AI Vision Application")
 
