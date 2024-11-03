@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # Set your OpenAI API key
-openai.api_key = ''your api key'
+openai.api_key = 'your api key'
 st.title("AI Vision Application")
 
 # Input field for the description
