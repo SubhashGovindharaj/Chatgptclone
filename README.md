@@ -33,7 +33,7 @@ This application allows users to upload audio files in WAV or MP3 format and pro
 
 - ### README for `vision.py`
 
-```markdown
+
 # AI Vision Application
 
 ## Overview
@@ -48,6 +48,7 @@ This application uses OpenAI's image generation capabilities to create images ba
 - Python 3.x
 - Streamlit
 - OpenAI API client
+- pip install googletrans==4.0.0-rc1
 
 ## Installation
 1. Clone the repository:
