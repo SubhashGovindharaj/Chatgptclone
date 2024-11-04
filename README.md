@@ -53,22 +53,7 @@ This application uses OpenAI's image generation capabilities to create images ba
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-
+   https://github.com/SubhashGovindharaj/Chatgptclone.git
 2.	Set up a virtual environment (optional but recommended):
 
 python -m venv venv
